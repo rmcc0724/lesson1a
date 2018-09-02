@@ -73,3 +73,15 @@ body{
     position: absolute;
     bottom: 0px;
 }
+
+#reservationModal {
+    .modal-header {
+    background-color:$background-light;  
+        .modal-title, .close {
+        color:floralwhite;
+        }
+    }
+    .modal-body {
+    background-color:$background-pale;  
+    }
+}
