@@ -52,10 +52,10 @@ body {
   position: absolute;
   bottom: 0px; }
 
-#reservationModal .modal-header {
+#reservationModal .modal-header, #loginModal .modal-header {
   background-color: #9575CD; }
-  #reservationModal .modal-header .modal-title, #reservationModal .modal-header .close {
+  #reservationModal .modal-header .modal-title, #reservationModal .modal-header .close, #loginModal .modal-header .modal-title, #loginModal .modal-header .close {
     color: floralwhite; }
 
-#reservationModal .modal-body {
+#reservationModal .modal-body, #loginModal .modal-body {
   background-color: #D1C4E9; }
